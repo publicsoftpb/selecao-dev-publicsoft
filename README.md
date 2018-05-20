@@ -3,7 +3,7 @@ Prezado candidato, parabéns por estar na fase final. Segue o pequeno sistema qu
 # Selecao-dev-2018
 Seleção de programador Java e PHP
 
-Autor: Rodrigo Fujioka, Martin Pfifer
+Autor: Rodrigo Fujioka, Martin Pfeifer
 
 Revisores:  José Filho
 
@@ -52,15 +52,15 @@ Ps:. Lembre-se que a PublicSoft trabalha, em sua maioria com clientes do setor p
 
 3. Controle de permissões para acessar os recursos (métdos da api) na aplicação
 
-4. Cadastrar condição para cotista. ex: escolaridade tem que ser pública, renda terá que ser igual ou menor à R$ 1500,00 
+4. Cadastrar condição para cotista. 
 
-4.1 - A etnia e raça tem que ser (parda, negro, indígena).
+4.1 - Exemplo: escolaridade tem que ser pública, renda terá que ser igual ou menor à R$ 1500,00, etnia e raça tem que ser (parda, negro, indígena).
 
-Obs: As condições cadastradas no painel administrativo ser utilizadas no cadastro do candidato, neste caso terá que deixar customizável.
+Obs: As condições cadastradas no painel administrativo vão ser utilizadas no cadastro do candidato, neste caso terá que deixar customizável.
 
 5. Listarem os candidatos com filtros de nome, cpf, cotista (flag).
 
-6. Analisar a vericidadeveracidade dos dados dos candidatos. 
+6. Analisar a veracidade dos dados dos candidatos. 
 
 6.1  - Assim sendo, ao atender as condições exigidas, o candidato receberá uma comprovação de cotista, caso contrário uma declaração de não cotista.
 

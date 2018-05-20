@@ -12,9 +12,12 @@ Equipe de Avaliação:  José Filho, Martin Pfeifer
 
 ## Objetivos
 Implemente um pequeno sistema para cotistas utilizando o conceito de micro serviços < https://martinfowler.com/articles/microservices.html  http://blog.caelum.com.br/arquitetura-de-microservicos-ou-monolitica />. 
-Deve ser realizado fork do projeto disponibilizado no github < https://github.com/publicsoftpb/selecao-dev-publicsoft>, no fork, o arquivo MD deve ser alterado para constar as instruções para execução e configuração. 
+
+Deve ser realizado fork do projeto disponibilizado no github <https://github.com/publicsoftpb/selecao-dev-publicsoft>, no fork, o arquivo MD deve ser alterado para constar as instruções de execução e configuração do projeto desenvolvido. 
 
 O sistema terá o código avaliado bem como a solução que foi proposta.
+
+Após concluir o projeto, deve ser enviado e-mail para o recrutador, informando a conclusão. 
 
 ## Recomendações
 

@@ -7,7 +7,7 @@ Autor: Rodrigo Fujioka, Martin Pfifer
 
 Revisores:  José Filho
 
-Equipe de Avaliação:  José Filho, Martin Pfeifer
+Equipe de Avaliação:  José Filho <jose.filho@publicsoft.com.br>, Martin Pfeifer<martin.pfeifer@publicsoft.com.br>
 
 
 ## Objetivos
